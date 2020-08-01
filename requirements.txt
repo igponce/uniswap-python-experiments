@@ -1,0 +1,4 @@
+keyring>=21.2.1
+keyrings.alt >= 3.4.0
+ipython_secrets
+web3>=5.11.1
