@@ -1,0 +1,7 @@
+/.git
+/.ipynb_checkpoints
+/__pycache__
+/shuf_arbitrage.ipynb
+/shuf_arbitrage.py
+/test_blockchain.py
+/test_uniswap.py
